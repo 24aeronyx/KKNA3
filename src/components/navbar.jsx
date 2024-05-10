@@ -11,7 +11,7 @@ export default function Navbar() {
     <header className="bg-customGreen py-3 px-8 md:px-24">
       <nav className="flex justify-between bg-customYellow text-black p-2 rounded-xl items-center md:px-4 md:flex-row md:items-center ">
         <div className="flex items-center gap-2">
-          <img src="../src/assets/logo.png" className=" w-8"></img>
+          <img src="https://i.imgur.com/bq6JwF3.png" className=" w-8"></img>
           <label className="font-bold text-sm md:order-1 md:text-lg">
             Yayasan Darush Sholihin
           </label>

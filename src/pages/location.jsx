@@ -5,7 +5,7 @@ export default function Location() {
         <div className="flex justify-center md:mt-0 md:w-1/2 ">
           <div className="bg-yellow-100 shadow-lg p-2 w-1/2 mb-4 md:flex md:flex-col ">
             <img
-              src="../src/assets/location.jpeg"
+              src="https://i.imgur.com/PwKkxa9.jpeg"
               className="mb-1 w-48 md:w-full"
             ></img>
             <span className="font-semibold text-center">
