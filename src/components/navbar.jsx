@@ -13,7 +13,7 @@ export default function Navbar({ handleScrollTo }) {
                 <div className="w-full h-full flex justify-between px-4 py-1 lg:justify-start lg:gap-4 lg:w-min lg:flex-1">
                     <div className="lg:flex gap-3 items-center">
                         <div className="h-full aspect-square">
-                            <img src="../src/assets/logo.png" alt="logo" className="w-auto h-full" />
+                            <img src="https://i.imgur.com/bq6JwF3.png" alt="logo" className="w-auto h-full" />
                         </div>
                         <div className="text-xl hidden text-black lg:flex">Yayasan Darush Sholihin</div>
                     </div>
